@@ -3,7 +3,8 @@
 A C#/.NET project for managing driver license applications.  
 This application handles data access, business logic, and user interface for processing applications efficiently.
 
-## Project Structure
+## Project Structure![Uploading pic2.png…]()
+
 <img width="1117" height="652" alt="pic1" src="https://github.com/user-attachments/assets/9578529f-34b8-4be1-bd2e-8f42bdaac0b5" />
 
 - **DVLD/** – Main application logic
